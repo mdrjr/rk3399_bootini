@@ -1,0 +1,3 @@
+#!/bin/sh
+cp /media/boot/boot.ini /media/boot/boot.ini.old
+cp /usr/share/bootini/boot.ini /media/boot/boot.ini
